@@ -1,2 +1,2 @@
-# Pharmacy system
- Manage pharmcy inventory
+# ultimatePharmacy
+ Ultimate Pharmacy system specically designed to manage your pharmaceutical and non-pharmaceutical stocks and expiry dates
